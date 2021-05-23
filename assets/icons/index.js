@@ -1,0 +1,6 @@
+export { default as GoalIcon } from "./goal_green.svg"
+export { default as InIcon } from "./in.svg"
+export { default as OutIcon } from "./out.svg"
+export { default as RougeIcon } from "./red_card.svg"
+export { default as JauneIcon } from "./yellow_card.svg"
+export { default as Avatar } from "./avatar.svg"
